@@ -21,7 +21,14 @@ The project includes three primary tables:
 - **View Latest Borrowing Activity**: Query to find the last book borrowed or returned by a member.
 - **Generate Reports**: Comprehensive query to generate reports containing customer details, book info, and borrowing history.
 
+## Getting Started
+
 ### Prerequisites
 
-- Oracle SQL or any compatible SQL client.
+- Oracle SQL.
 
+### Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/library-management.git
