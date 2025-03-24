@@ -1,7 +1,5 @@
 # Library Management System
 
-> A simple database project to manage library operations, including member details, book inventory, and borrowing records.
-
 ## About
 
 This project is a SQL-based library management system designed to manage essential library functions such as tracking members, books, and borrow/return transactions. It uses Oracle SQL for data storage and operations, providing queries for finding books, viewing borrowing records, and generating reports.
